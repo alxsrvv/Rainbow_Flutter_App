@@ -29,7 +29,7 @@ class _RandColorBackgroundState extends State<RandColorBackground> {
   Color tempBackgroundColor = Colors.grey[300];
 
   // keyIsFirstLoaded field: null - first app load / false - app is reloaded
-  final keyIsFirstLoaded = 'first_load';
+  final keyIsFirstLoaded = null;
 
   @override
   Widget build(BuildContext context) {
