@@ -1,4 +1,4 @@
-#Thu Mar 11 01:50:20 EET 2021
-base.0=/Users/alex/Documents/Work/flutter_app/rainbow/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Mar 11 02:42:20 EET 2021
+base.0=/Users/alex/Documents/Work/flutter_app/Rainbow_Flutter_App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/alex/Documents/Work/flutter_app/rainbow/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/alex/Documents/Work/flutter_app/Rainbow_Flutter_App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/alex/Documents/Work/flutter_app/rainbow/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/alex/Documents/Work/flutter_app/Rainbow_Flutter_App/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
