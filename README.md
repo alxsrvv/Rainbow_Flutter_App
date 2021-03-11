@@ -16,7 +16,7 @@ The app display the text "Hey there" in the middle of the screen and after tappi
 # installing the packages
 
 If packages does not installing automatically try command:
-## flutter pub get
+`flutter pub get`
 
 # connect
 telegram: @alxsrvv
