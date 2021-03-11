@@ -11,7 +11,12 @@ The app display the text "Hey there" in the middle of the screen and after tappi
 - Added app icon
 - Separate function for randomizing color
 - Well commented code
-- Dart code style aproved
+- Dart code style approved
+
+# installing the packages
+
+If packages does not installing automatically try command:
+## flutter pub get
 
 # connect
 telegram: @alxsrvv
